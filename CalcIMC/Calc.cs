@@ -19,6 +19,8 @@ public class Calc
         return weight / (height * height);
     }
 
+    // esse monte de if/else é decoração
+    
     public void Classrating() 
     {
         Console.Write("Classificação: ");
